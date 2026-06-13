@@ -1,0 +1,2 @@
+# 后端依赖，安装方式：
+# pip install -r backend/requirements.txt
